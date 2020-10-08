@@ -1,0 +1,29 @@
+body{
+  width:80%;
+  margin: auto;
+  margin-top: 2%;
+}
+img{
+  width: 500px;
+  height: 350px;
+  border: 2px dashed;
+  margin:2% 2% 2% 2%;
+}
+.card1{
+  display: flex;
+}
+.myclass{
+  text-align: center;
+}
+p{
+  font-size: 2rem;
+}
+.h1{
+  font-size: 5rem;
+}
+.image{
+  border:2px dotted
+}
+h4{
+  text-align: center;
+}
